@@ -664,3 +664,18 @@ label:hover{
   position: absolute;
   transition: .5s;
 }
+/*   === Page Footer Styling Starts ===   */
+section.page-footer{
+	width: 100%;
+	padding: 30px 8%;
+	background-color: var(--bg-clr-1);
+	text-align: center;
+	margin-top: 20px;
+}
+.page-footer p{
+	color: var(--main-heading-clr);
+	word-spacing: 2px;
+	letter-spacing: 1px;
+}
+/*   === Page Footer Styling Ends ===   */
+
