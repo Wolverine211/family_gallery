@@ -3,7 +3,8 @@
 // Home Section Script Starts
 var typingText = document.querySelector('.text2');
 var myArray = 
- ["Frontend Developer",
+ ["Web Developer",
+  "Frontend Developer",
   "UI/UX Designer",
   "PhotoShop Designer", 
   "AutoCad Designer",
@@ -11,7 +12,6 @@ var myArray =
   "GPS Tracker",
   "FM/BM System",
   "Solar System",
-  "Web Developer",
   "Blogger"];
 var arrayIndex = 1;
 
