@@ -550,7 +550,7 @@ label:hover{
   border-radius: 10px;
 }
 .pic::before{
-  content: "PHOTO GALLERY";
+  content: "";
   position: absolute;
   top: 50%;
   left: 50%;
